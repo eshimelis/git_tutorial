@@ -1,3 +1,4 @@
+% This tests whether the impulse_response.m function works
 
 Ts = 1000;
 fs = 1/Ts;
